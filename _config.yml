@@ -1,0 +1,5 @@
+name: Curitiboca
+url: http://localhost
+timezone: America/Sao_Paulo
+permalink: /:title/
+markdown: rdiscount

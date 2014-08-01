@@ -1,0 +1,123 @@
+<style>
+
+body {
+  margin: 0;
+  padding: 2rem 1rem;
+  font: 1rem/1.5 "PT Sans", sans-serif;
+  color: #FFFFFF;
+}
+
+
+h1, h2, h3, h4 {
+  margin: 0 0 .5rem;
+  font-weight: normal;
+  line-weight: 1;
+  color: #FFFFFF;
+  letter-spacing: -.01rem;
+  text-align:center;
+}
+
+h1 { font-size: 3rem;}
+h2 { font-size: 2.5rem;}
+h3 { font-size: 1rem; margin-top: 2rem; font-size: 1.75rem; }
+h4 { font-size: 1.25rem }
+
+
+/* Override B3 .panel adding a subtly transparent background 
+.panel {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+*/
+
+.margin-base-vertical {
+ margin: 40px 0;
+}
+
+.label {
+  background-color: #aab2bd;
+}
+
+.label-default {
+  border: 1px solid #aab2bd;
+  background-color: white;
+  color: #434a54;
+}
+
+.label-danger {
+  border-color: #da4453;
+  background-color: #da4453;
+}
+
+p {
+  margin: 0 0 1rem;
+}
+
+ul li {
+  margin-bottom: 0;
+}
+
+p:last-child,
+ul:last-child,
+blockquote:last-child{
+  margin-bottom: 0;
+}
+
+/*
+ * Grid
+ */
+
+.col {
+  padding: 2rem 1rem;
+}
+
+.col p {
+  max-width: 40rem;
+}
+
+.col + .col {
+  border-top: 1px solid #dfe1e8
+  background-color: #f7f7f9;
+}
+
+@media (min-width: 38em) {
+  .col {
+    padding: 2rem;
+    }
+}
+
+@media (min-width: 48em) {
+  .section {
+    display: table;
+    width: 100%;
+    table-layout: 100% ;
+   }
+
+  .col {
+    display: table-cell;
+    padding: 3rem;
+    vertical-align: top;
+  }
+
+  .col + .col {
+    border-top: 0;
+  }
+}
+
+.toc .col + .col {
+  background-color: #fff;
+}
+
+.footer {
+  margin-top: 3rem;
+  padding: 3rem 1rem;
+  font-size: 90%;
+  color: #001F3F;
+  text-align: center;
+  border-top: 1px solid #001F3F;
+}
+
+.footer p {
+  margin-bottom: .5rem;
+}
+
+</style>

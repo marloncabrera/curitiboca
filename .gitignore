@@ -1,0 +1,13 @@
+# Ignore docs files
+_site/
+s3_website.yml
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
