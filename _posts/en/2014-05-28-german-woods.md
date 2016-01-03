@@ -26,6 +26,8 @@ Barão do Serro Azul St / Trav. Nestor de Castro St / Rosário St / Duque de Cax
 
 <article class="tc">
 
+### Street View
+
 <br><br>
 
 <iframe src="http://www.mapillary.com/jsapi/?image=kPs_Gkv2ojU-0B6rjaD2UA" width="315px" height="560px" frameborder="0"></iframe>
