@@ -24,3 +24,11 @@ Expresso Boqueirão (Praça Carlos Gomes) até o Terminal do Boqueirão + Alimen
 Rua Cândido Lopes / Al. Dr. Muricy / Av. Mal. Deodoro / Rua Des. Westphalen / Rua Prof. Plácido e Silva / Av. Mal Floriano Peixoto. Entrar à direita logo após o viaduto sobre a R.F.F.S.A.
 
 <iframe style="width:100%; height:500px;" src="https://a.tiles.mapbox.com/v3/nolram.il4l1pk3/attribution,zoompan,zoomwheel,geocoder,share.html"></iframe>
+
+<br>
+
+### Street view
+
+<iframe src="http://www.mapillary.com/jsapi/?image=EoITue5ZHiIB6TC0YBrGCw" width="315px" height="560px" frameborder="0"></iframe>
+
+</article>
