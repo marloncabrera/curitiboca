@@ -25,3 +25,12 @@ Expresso Boqueirão ( Carlos Gomes Square ) till Boqueirão Station then take th
 Cândido Lopes St. / Dr. Muricy St. / Mal. Deodoro Avenue / Des. Westphalen St / Prof. Plácido e Silva St / Mal Floriano Peixoto Avenue turn right after the viaduct over the train line.
 
 <iframe style="width:100%; height:500px;" src="https://a.tiles.mapbox.com/v3/nolram.il4l1pk3/attribution,zoompan,zoomwheel,geocoder,share.html"></iframe>
+
+<article class="tc">
+
+<br>
+<br>
+
+<iframe src="http://www.mapillary.com/jsapi/?image=EoITue5ZHiIB6TC0YBrGCw" width="315px" height="560px" frameborder="0"></iframe>
+
+</article>
