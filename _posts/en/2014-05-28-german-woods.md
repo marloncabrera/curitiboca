@@ -23,3 +23,11 @@ Take the bus labeled Jardim Mercês/Guanabara at Trav. Nestor de Castro St. Drop
 Barão do Serro Azul St / Trav. Nestor de Castro St / Rosário St / Duque de Caxias St /  Inácio Lustosa St / Trajano Reis St / Des. Benvindo Valente St / Des. Hugo Simas St / Francisco Schaffer St / Niccolo Paganini St.
 
 <iframe style="width:100%; height:500px;" src="https://a.tiles.mapbox.com/v3/nolram.ii96j06a/attribution,zoompan,zoomwheel,geocoder,share.html"></iframe>
+
+<article class="tc">
+
+<br><br>
+
+<iframe src="http://www.mapillary.com/jsapi/?image=kPs_Gkv2ojU-0B6rjaD2UA" width="300px" height="500px" frameborder="0"></iframe>
+
+</article>
