@@ -25,3 +25,13 @@ Interbairros II sentido Anti-Horário
 Rua Barão do Serro Azul / Trav. Nestor de Castro / Rua do Rosário / Rua Duque de Caxias / Rua Inácio Lustosa / Rua Trajano Reis / Rua Des. Benvindo Valente / Rua Des. Hugo Simas / Rua Francisco Schaffer / Rua Niccolo Paganini.
 
 <iframe style="width:100%; height:500px;" src="https://a.tiles.mapbox.com/v3/nolram.ii96j06a/attribution,zoompan,zoomwheel,geocoder,share.html"></iframe>
+
+<article class="tc">
+
+### Street View
+
+<br>
+
+<iframe src="http://www.mapillary.com/jsapi/?image=kPs_Gkv2ojU-0B6rjaD2UA" width="315px" height="560px" frameborder="0"></iframe>
+
+</article>
